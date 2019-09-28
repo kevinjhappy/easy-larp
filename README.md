@@ -1,4 +1,4 @@
-# LARP Event Manager
+# Easy LARP
 
 This is a web application with a collection of tools helping people from association organising LARP events from end to end, with player list, reminders, etc.
 
@@ -10,8 +10,8 @@ You will need Docker to build the application, find more informations on [the do
 
 ``` bash
 # Clone the application
-git clone https://github.com/kevinjhappy/larp-event-manager.git
-cd larp-event-manager/
+git clone https://github.com/kevinjhappy/easy-larp.git
+cd easy-larp/
 
 ```
 
